@@ -2,7 +2,7 @@
 
 ## Layout
 
-![Layout png](./design/keyboard-layout.png)
+![Layout png](./design/keyboard-layout-v3.png)
 
 [JSON](./design/keyboard-layout.json)
 
